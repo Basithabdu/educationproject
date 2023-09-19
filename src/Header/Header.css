@@ -1,0 +1,12 @@
+.Header{
+  display: flex;
+}
+
+.HeaderLogo{
+  margin-left: 90px;
+}
+
+.NavBar{
+  margin-left: 380px;
+  margin-top: 40px;
+}

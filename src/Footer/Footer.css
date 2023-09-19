@@ -1,0 +1,40 @@
+.Footer{
+  background-color: #4A3F99;
+  width: 1260px;
+  height: 250px;
+}
+.Need{
+  margin-left: 87px;
+  padding-top: 50px;
+  color: #E4E1F6;
+  font-size: 14px;
+}
+
+.contactbtn1{
+  margin-left: 87px;
+  background-color: rgb(54, 54, 59);
+  border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.line{
+  margin-left: 80px;
+  margin-top: 40px;
+}
+
+.Logos{
+  margin-left: -500px;
+  margin-top: 50px;
+  width: 400px;
+}
+
+.Fpara{
+  font-size: 13px;
+  margin-left: 80px;
+  margin-top: 20px;
+  color: white;
+  position: absolute;
+  position: relative;
+}

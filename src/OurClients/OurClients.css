@@ -1,0 +1,46 @@
+.Ourpage{
+  background-color: mediumturquoise;
+  margin-top: 70px;
+  width: 1260px;
+  height: 650px;
+}
+
+.ellip{
+  height: 650px;
+}
+
+.vect{
+  margin-top: -600px;
+  margin-left: 605px;
+}
+
+.Our{
+  margin-top: -650px;
+  color: white;
+  margin-left: 100px;
+}
+
+.Our1{
+  font-size: 13px;
+  color: white;
+  margin-left: 100px;
+}
+
+.owl{
+  margin-left: 70px;
+  width: 1000px;
+  height: 350px;
+  margin-top: -70px;
+}
+
+.dot{
+  margin-top: 300px;
+  margin-left: -520px;
+  position: relative;
+}
+
+.dot1{
+  margin-top: 450px;
+  margin-left: -98px;
+  position: relative;
+}

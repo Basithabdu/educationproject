@@ -1,0 +1,111 @@
+.bgcolor{
+  background-color: turquoise;
+  width: 1270px;
+  height: 550px;
+  
+}
+
+.bgcolor1{
+  width: 1260px;
+  height: 600px;
+  margin-top: -20px;
+  
+}
+
+.lady{
+  width: 650px;
+  height: 550px;
+  margin-top: -640px;
+  margin-left: -70px;
+}
+
+.discover{
+  margin-top: -550px;
+  color: white;
+  font-size: 12px;
+}
+
+.r1{
+  height: 180px;
+  width: 280px;
+}
+.r2{
+  height: 180px;
+  width: 280px;
+}
+.r3{
+  height: 180px;
+  width: 280px;
+}
+.r4{
+  height: 180px;
+  width: 280px;
+}
+
+.Lead{
+  margin-top: -330px;
+  margin-left: 20px;
+  color: white;
+  position: absolute;
+  position: relative;
+}
+
+.Lead1{
+  margin-top: 10px;
+  margin-left: 20px;
+  position: absolute;
+  position: relative;
+  font-size: 10px;
+  color: #AEAEAE;
+}
+
+.Deals{
+  margin-top: -137px;
+  margin-left: 300px;
+  color: white;
+  position: absolute;
+  position: relative;
+}
+
+.Deals1{
+  margin-top: 10px;
+  margin-left: 300px;
+  position: absolute;
+  position: relative;
+  font-size: 10px;
+  color: #AEAEAE;
+}
+
+.Manag{
+  margin-top: 50px;
+  margin-left: 20px;
+  color: white;
+  position: absolute;
+  position: relative;
+}
+
+.Manag1{
+  margin-top: 10px;
+  margin-left: 20px;
+  position: absolute;
+  position: relative;
+  font-size: 10px;
+  color: #AEAEAE;
+}
+
+.Report{
+  margin-top: -137px;
+  margin-left: 300px;
+  color: white;
+  position: absolute;
+  position: relative;
+}
+
+.Report1{
+  margin-top: 10px;
+  margin-left: 300px;
+  position: absolute;
+  position: relative;
+  font-size: 10px;
+  color: #AEAEAE;
+}

@@ -1,0 +1,48 @@
+.background{
+  background-color: #4A3F99;
+  width: 1270px;
+  height: 550px;
+}
+
+.why{
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.p1{
+  font-size: 13px;
+  color: #F8F8F8;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+.p2{
+  font-size: 13px;
+  color: #F8F8F8;
+  padding-left: 100px;
+}
+
+.p3{
+  font-size: 13px;
+  color: #F8F8F8;
+  padding-left: 100px;
+}
+
+.sst{
+  height: 450px;
+  width: 670px;
+  padding-top: 30px;
+  margin-top: 40px;
+}
+
+.sst1{
+  position: relative;
+  position: absolute;
+  height: 350px;
+  width: 450px;
+  margin-left: -381px;
+  margin-top: 210px;
+}
